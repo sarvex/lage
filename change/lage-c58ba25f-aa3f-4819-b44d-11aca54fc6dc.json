@@ -1,0 +1,7 @@
+{
+  "type": "none",
+  "comment": "Replace devDependency rollup-plugin-terser with @rollup/plugin-terser 0.1.0",
+  "packageName": "lage",
+  "email": "email not defined",
+  "dependentChangeType": "none"
+}
